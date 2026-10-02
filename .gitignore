@@ -1,0 +1,4 @@
+umi_settings.json
+__pycache__/
+*.pyc
+bot_before_package_update.py
